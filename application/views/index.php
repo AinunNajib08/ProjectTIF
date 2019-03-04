@@ -13,7 +13,7 @@
     <!-- CSS KU -->
     <link rel="stylesheet" href="css/style.css" type="text/css">
 
-    <title>Hello, world!</title>
+    <title>Coba coba</title>
 </head>
 
 <body>
